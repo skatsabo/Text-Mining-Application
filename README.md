@@ -1,0 +1,2 @@
+# Text-Mining-Application
+Information and Data anagement Application in Legal Texts: This body of work involves extraction header summarization, labeling of legal references and classification of legal texts. To assist with this process, an application was created which includes features that facilitates users' searching activities in order to find specific passages. The application was developed in Java language.
